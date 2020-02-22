@@ -1,0 +1,82 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.ul{
+    list-style: none;
+    justify-content: flex-end;
+    text-transform: uppercase;
+    display: flex;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.li-div{
+    display: flex;
+    height: 88px;
+    padding-top: 35px;
+}
+
+
+.div-h{
+    color: #ffffff;
+    padding-top: 18px;
+}
+
+
+li{
+    font-size: 16px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+.header-wrapper{
+    background-color: #4C97A3;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.background{
+    height: 600px;
+    width: 100%;
+    background-image: url(./IMG/sea.png);
+    background-repeat: no-repeat;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    margin-top: -15px;
+}
+
+.h1{
+    padding-top: 200px;
+    color: #ffffff;
+    font-size: 55px;
+}
+
+.input{
+    height: 47px;
+    width: 234px;
+    background: transparent;
+    color: #ffffff;
+    border-color: #ffffff;
+    border-radius: 10px;
+    font-size: 16px;
+    border: 2.5px solid #ffffff;
+}
+
+
+.h{
+    display: flex;
+    justify-content: center;
+}
+
+
+.in{
+    display: flex;
+    justify-content: center;
+}
